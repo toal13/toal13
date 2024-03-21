@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I am a student at Medieinstitutet's Frontend Developer program in Gothnburg.<br>🌱 I’m currently learning Node.js.<br>🔭I am looking for an internship starting in the fall of 2024.
+💻 I am a student at Medieinstitutet's Frontend Developer program in Gothenburg.<br>🌱 I’m currently learning Node.js.<br>🔭I am looking for an internship starting in the fall of 2024.
 
 
 ## 🌐 Socials:
